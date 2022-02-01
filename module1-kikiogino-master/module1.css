@@ -1,0 +1,38 @@
+
+
+.card{
+  position: relative;
+  float: left;
+  left: 30%;
+  height: 700px;
+  width: 500px;
+  background: lightyellow;
+  border-style: solid;
+
+}
+
+.card:active{
+  background: #42f5cb;
+}
+
+h1 {
+  font-size: 45px;
+  font-family: 'Anton', sans-serif;
+  margin-top: 20%;
+  color: pink;
+  margin-left: 22%;
+}
+
+.cupcake{
+  position: relative;
+  display: block;
+  width: 80%;
+  left: 10%;
+}
+h2 {
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
+
+  color: pink;
+  margin-left: 25%;
+}
